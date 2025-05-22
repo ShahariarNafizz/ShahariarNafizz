@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahariar Nafiz</h1>
 <h3 align="center">A passionate beginner diving into the world of data science, machine learning and Networking.</h3>
 
+
 <img align="right" alt="Coder GIF"  width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariarnafizz&label=Profile%20views&color=0e75b6&style=flat" alt="shahariarnafizz" /> </p>
 
@@ -14,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nafiz42399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafiz42399" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahariar-nafiz-1538b8352?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bppif5iknqi65zl0%2fd6rqjw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahariar-nafiz-1538b8352?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bppif5iknqi65zl0%2fd6rqjw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nafiz143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiz143" height="30" width="40" /></a>
 <a href="https://kaggle.com/nafiz143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafiz143" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/16c9s71k6v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16c9s71k6v/" height="30" width="40" /></a>
+<a href="https://fb.com/16c9s71k6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="16c9s71k6v" height="30" width="40" /></a>
 <a href="https://instagram.com/imsha_hriar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsha_hriar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nafiz143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafiz143" height="30" width="40" /></a>
 </p>
