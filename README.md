@@ -1,3 +1,4 @@
+![logo](https://github.com/ShahariarNafizz/ShahariarNafizz/blob/main/me.png)
 <h1 align="center">Hi 👋, I'm Shahariar Nafiz</h1>
 <h3 align="center">A passionate beginner diving into the world of data science, machine learning and Networking.</h3>
 
