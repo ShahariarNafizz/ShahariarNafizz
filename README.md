@@ -36,17 +36,17 @@
 
 <!-- GitHub Stats -->
 <p>
-  &nbsp;<img align="center" 
+  &nbsp;<img align="right" 
        src="https://github-readme-stats.vercel.app/api?username=shahariarnafizz&show_icons=true&locale=en&bg_color=000000&title_color=d6d1c4&text_color=cccccc&icon_color=d6d1c4&border_color=444444" 
        alt="shahariarnafizz" />
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats 
 <p>
   <img align="center" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarnafizz&background=000000&ring=d6d1c4&fire=d6d1c4&currStreakLabel=d6d1c4&sideNums=e0e0e0&sideLabels=e0e0e0&dates=e0e0e0&stroke=444444" 
        alt="shahariarnafizz" />
-</p>
+</p>-->
 
 
 
