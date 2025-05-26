@@ -29,14 +29,14 @@
 
 <!-- Top Languages -->
 <p>
-  <img align="left" 
+  <img align="right" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=shahariarnafizz&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=d6d1c4&text_color=cccccc&icon_color=d6d1c4&border_color=444444" 
        alt="shahariarnafizz" />
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  &nbsp;<img align="right" 
+  &nbsp;<img align="left" 
        src="https://github-readme-stats.vercel.app/api?username=shahariarnafizz&show_icons=true&locale=en&bg_color=000000&title_color=d6d1c4&text_color=cccccc&icon_color=d6d1c4&border_color=444444" 
        alt="shahariarnafizz" />
 </p>
